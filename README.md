@@ -25,7 +25,10 @@ Uygulama simülatörünüzde veya bağlı bir cihazda çalışacaktır.
 
 ## Ekran Görüntüsü
 
-![Uygulama Ekran Görüntüsü](screenshot.png)
+![Uygulama Ekran Görüntüsü -1](assets/1.png)
+![Uygulama Ekran Görüntüsü -2](assets/2.png)
+![Uygulama Ekran Görüntüsü -3](assets/3.png)
+![Uygulama Ekran Görüntüsü -4](assets/4.png)
 
 ## Katkıda Bulunma
 
